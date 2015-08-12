@@ -399,7 +399,10 @@ body {
   margin-bottom: -21px; }
 
 .overlay {
-  display: none; }
+  display: block;
+  position: relative;
+  top: 323px;
+  left: 5px; }
 
 .header__graphic {
   position: relative;
@@ -411,53 +414,49 @@ body {
   background-repeat: no-repeat;
   margin-bottom: 110px; }
 
-.location--chicago-theater .overlay {
-  display: block;
-  position: relative;
-  top: 323px;
-  left: 5px; }
-
 .location--crown-fountain {
   background-image: url("../img/mobile-man.png");
   background-repeat: no-repeat;
   margin-bottom: 125px; }
 
-.location--crown-fountain .overlay {
-  display: block;
-  position: relative;
-  top: 321px;
-  left: 7px; }
-
 .location--navy-pier {
   background-image: url("../img/mobile-ferris-wheel.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 126px; }
 
 .location--buckingham-fountain {
   background-image: url("../img/fountain.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 110px; }
 
 .location--wrigley-field {
   background-image: url("../img/mobile-wrigley-field.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 127px; }
 
 .location--cloud-gate {
   background-image: url("../img/cloud-gate.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 126px; }
 
 .location--millenium-park {
   background-image: url("../img/mobile-millenium-park.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 126px; }
 
 .location--museum {
   background-image: url("../img/field-museum.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 153px; }
 
 .location--zoo {
   background-image: url("../img/tiger.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 126px; }
 
 .location--skydeck {
   background-image: url("../img/mobile-feet.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 110px; }
 
 /*# sourceMappingURL=styles.css.map */

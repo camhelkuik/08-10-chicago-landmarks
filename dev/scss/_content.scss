@@ -1,13 +1,27 @@
 .location--chicago-theater{
   background-image: url("../img/mobile-chicago.png");
   background-repeat: no-repeat;
-  margin-bottom: 100px;
+  margin-bottom: 110px;
+}
+
+.location--chicago-theater .overlay{
+  display: block;
+  position: relative;
+  top: 323px;
+  left: 5px;
 }
 
 .location--crown-fountain{
   background-image: url("../img/mobile-man.png");
   background-repeat: no-repeat;
-  margin-bottom: 100px;
+  margin-bottom: 125px;
+}
+
+.location--crown-fountain .overlay{
+  display: block;
+  position: relative;
+  top: 321px;
+  left: 7px;
 }
 
 .location--navy-pier{

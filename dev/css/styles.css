@@ -395,19 +395,23 @@ body {
   display: none; }
 
 .location {
-  height: 320px; }
+  height: 320px;
+  margin-bottom: -21px; }
 
 .header__graphic {
   position: relative;
-  width: 100%; }
+  width: 100%;
+  margin-bottom: -25px; }
 
 .location--chicago-theater {
   background-image: url("../img/mobile-chicago.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 100px; }
 
 .location--crown-fountain {
   background-image: url("../img/mobile-man.png");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  margin-bottom: 100px; }
 
 .location--navy-pier {
   background-image: url("../img/mobile-ferris-wheel.png");

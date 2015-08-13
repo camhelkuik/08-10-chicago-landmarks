@@ -2,13 +2,16 @@ body {
   overflow-x:hidden;
 }
 
-.switch-icon{
-  display: none;
+.switch-icon {
+  width: 5%;
+  position: absolute;
+  bottom: 69px;
+  right: 0;
 }
 
 .location {
-    height: 320px;
-    margin-bottom: -21px;
+  height: 320px;
+  margin-bottom: -21px;
 }
 
 .overlay {

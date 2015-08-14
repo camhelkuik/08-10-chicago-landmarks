@@ -4,9 +4,10 @@ body {
 
 .switch-icon {
   width: 5%;
-  position: absolute;
-  bottom: 69px;
-  right: 0;
+  position: relative;
+  bottom: -291px;
+  right: -301px;
+  z-index: 10;
 }
 
 .location {

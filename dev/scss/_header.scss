@@ -1,6 +1,8 @@
 .header__graphic {
-  position: relative;
-  width: 100%;
+  height: 260px;
   margin-bottom: -25px;
+  background-size: cover;
+  background-position-x: 50%;
+  background-image: url("../img/header-graphic.png");
 }
 

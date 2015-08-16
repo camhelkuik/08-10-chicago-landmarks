@@ -57,3 +57,52 @@
   background-repeat: no-repeat;
   margin-bottom: 110px;
 }
+
+@media (min-width: 650px){
+  .location--chicago-theater{
+    background-image: url("../img/chicago.png");
+    margin-bottom: 0px;
+  }
+  
+  .location--crown-fountain{
+    background-image: url("../img/man.png");
+    margin-bottom: 0px;
+  }
+  
+  .location--navy-pier{
+    background-image: url("../img/ferris-wheel.png");
+    margin-bottom: 0px;
+  }
+  
+  .location--buckingham-fountain{
+    margin-bottom: 0px;
+  }
+  
+  .location--wrigley-field{
+    background-image: url("../img/wrigley-field.png");
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  
+  .location--cloud-gate{
+    margin-bottom: 0px;
+  }
+  
+  .location--millenium-park{
+    background-image: url("../img/millenium-park.png");
+    margin-bottom: 0px;
+  }
+  
+  .location--museum{
+    margin-bottom: 0px;
+  }
+  
+  .location--zoo{
+    margin-bottom: 0px;
+  }
+
+  .location--skydeck{
+    background-image: url("../img/feet.png");
+    margin-bottom: 0px;
+  }
+}

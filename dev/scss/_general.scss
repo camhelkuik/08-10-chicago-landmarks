@@ -16,8 +16,19 @@ body {
 }
 
 .overlay {
-  display: block;
-  position: relative;
-  top: 323px;
-  left: 5px;
+ // display: block;
+//  position: relative;
+//  top: 323px;
+//  left: 5px;
+display: none;
+}
+
+.two-thirds {
+  width: 66.66%;
+  float: left;
+}
+
+.one-third {
+  width: 33.33%;
+  float:right;
 }

@@ -80,7 +80,6 @@
   
   .location--wrigley-field{
     background-image: url("../img/wrigley-field.png");
-    width: 100%;
     margin-bottom: 0px;
   }
   
@@ -105,4 +104,30 @@
     background-image: url("../img/feet.png");
     margin-bottom: 0px;
   }
+  
+  .two-thirds {
+    width: 66.66%;
+    float: left;
+  }
+
+  .one-third {
+    width: 33.33%;
+    float:right;
+  }
+
+  .full-width {
+    width: 100%;
+    float: left;
+  }
+  
+  .right--two-thirds{
+    width: 66.66%;
+    float: right;
+  }
+  
+ .left--one-third{
+    width: 33.33%;
+    float: left;
+  }
+  
 }

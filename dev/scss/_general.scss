@@ -3,23 +3,24 @@ body {
 }
 
 .switch-icon {
-  width: 5%;
-  position: relative;
-  bottom: -291px;
-  right: -301px;
-  z-index: 10;
+ // width: 5%;
+//  position: relative;
+//  bottom: -291px;
+//  right: -301px;
+//  z-index: 10;
+display: none;
 }
 
 .location {
   height: 320px;
   margin-bottom: -21px;
+  position: relative;
 }
 
 .overlay {
- // display: block;
-//  position: relative;
-//  top: 323px;
-//  left: 5px;
-display: none;
+  display: block;
+  position: relative;
+  top: 323px;
+  left: 5px;
 }
 
